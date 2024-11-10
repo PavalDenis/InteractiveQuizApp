@@ -1,0 +1,167 @@
+/* styles.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.h1Home {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.divHome h2 {
+    font-size: larger;
+    border: 2px solid black;
+    border-radius: 100px;
+    max-width: 250px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.divHome nav {
+    font-size: medium;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; 
+}
+
+.divHome nav a {
+    border-bottom: 2px solid black;
+    margin: 0 10px;
+}
+
+.divHome nav a:hover {
+    color: blue;
+    border-bottom: 2px solid blue;
+    transition-duration: .3s;
+}
+.resetButton {
+    border: 2px solid black;
+    padding: 10px 20px; 
+    border-radius: 30px;
+    max-width: 250px;
+    display: block;
+    margin: 20px auto; 
+    background-color: black; 
+    color: white;
+    font-size: medium;
+    text-align: center;
+}
+
+.resetButton:hover {
+    background-color: white;
+    color: black; 
+    transition-duration: .3s;
+}
+
+.quiz-question {
+    text-align: center;
+    margin: 20px auto;
+    font-size: 18px;
+    font-weight: bold; 
+}
+.InfoQ{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 500px;
+    margin: auto;
+    border: solid 2px black;
+    border-radius: 40px;
+}
+.InfoQ h3 , p{
+    margin-top: 20px;
+    margin-bottom: 15px; 
+    font-size: large;
+
+}
+.quiz-options {
+    list-style-type: none; 
+    padding: 0;
+    text-align: center; 
+}
+
+.quiz-options li {
+    margin: 10px 0; 
+}
+
+.quiz-options input {
+    margin-right: 10px; 
+    cursor: pointer;
+}
+
+.quiz-options label {
+    font-size: 16px;
+}
+.scorSiVerificare{
+    text-align: center;
+}
+.scorSiVerificare button{
+    border: solid 2px black;
+    padding: 5px 10px;
+    border-radius: 10px; 
+    margin-bottom: 20px;
+}
+
+
+.formi {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+.formi input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: border 0.3s ease;
+  }
+  
+.formi input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+.formi button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ffffff00;
+    color: black;
+    border: solid 2px black;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+   
+.formi button:hover {
+    background-color: #000000;
+    color: white;
+    transition: all .4s;
+  }
+  
+.formi h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+.newque{
+    text-align: center;
+    margin-top: 10px;
+}

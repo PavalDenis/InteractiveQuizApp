@@ -1,0 +1,104 @@
+{
+    "Stiinta": [
+      {
+        "question": "Ce este fotosinteza?",
+        "options": [
+          "Procesul prin care plantele produc oxigen",
+          "Procesul de digestie",
+          "Formarea norilor",
+          "Topirea ghețarilor"
+        ],
+        "correct": ["Procesul prin care plantele produc oxigen"]
+      },
+      {
+        "question": "Ce planetă este cunoscută ca „Planeta Roșie”?",
+        "options": ["Venus", "Marte", "Jupiter", "Mercur"],
+        "correct": ["Marte"]
+      },
+      {
+        "question": "Care este cel mai abundent gaz din atmosfera Pământului?",
+        "options": ["Oxigen", "Azot", "Dioxid de carbon", "Heliu"],
+        "correct": ["Azot"]
+      },
+      {
+        "question": "Ce este gravitația?",
+        "options": [
+          "Forța care ține avioanele în aer",
+          "Efectul de rotație al Pământului",
+          "Magnetismul între polii Pământului",
+          "Forța care atrage obiectele către centrul Pământului"
+        ],
+        "correct": ["Forța care atrage obiectele către centrul Pământului"]
+      },
+      {
+        "question": "Ce element chimic are simbolul „H”?",
+        "options": ["Hidrogen", "Heliu", "Mercur", "Oxigen"],
+        "correct": ["Hidrogen"]
+      }
+    ],
+    "CulturaGenerala": [
+      {
+        "question": "Care este cel mai lung fluviu din lume?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "correct": ["Nile"]
+      },
+      {
+        "question": "În ce an a avut loc Revoluția Franceză?",
+        "options": ["1789", "1812", "1492", "1914"],
+        "correct": ["1789"]
+      },
+      {
+        "question": "Care este capitala Japoniei?",
+        "options": ["Tokyo", "Kyoto", "Osaka", "Nagoya"],
+        "correct": ["Tokyo"]
+      },
+      {
+        "question": "Cine a pictat „Mona Lisa”?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+        "correct": ["Leonardo da Vinci"]
+      },
+      {
+        "question": "Câte state are SUA?",
+        "options": ["52", "48", "51", "50"],
+        "correct": ["50"]
+      }
+    ],
+    "Istorie": [
+      {
+        "question": "În ce an a avut loc Unirea Principatelor Române?",
+        "options": ["1859", "1918", "1821", "1877"],
+        "correct": ["1859"]
+      },
+      {
+        "question": "Cine a fost primul domnitor al Țării Românești?",
+        "options": ["Mihai Viteazul", "Mircea cel Bătrân", "Basarab I", "Vlad Țepeș"],
+        "correct": ["Basarab I"]
+      },
+      {
+        "question": "În ce bătălie a învins Mihai Viteazul armata otomană?",
+        "options": [
+          "Bătălia de la Rovine",
+          "Bătălia de la Călugăreni",
+          "Bătălia de la Posada",
+          "Bătălia de la Șelimbăr"
+        ],
+        "correct": ["Bătălia de la Călugăreni"]
+      },
+      {
+        "question": "Ce rol a avut Alexandru Ioan Cuza în istoria României?",
+        "options": [
+          "A fost primul domnitor al Principatelor Unite",
+          "A cucerit Transilvania",
+          "A fost rege al României",
+          "A inițiat reforma agrară"
+        ],
+        "correct": ["A fost primul domnitor al Principatelor Unite"]
+      },
+      {
+        "question": "În ce an s-a semnat Tratatul de la Trianon?",
+        "options": ["1920", "1918", "1940", "1938"],
+        "correct": ["1920"]
+      }
+    ]
+  }
+  
